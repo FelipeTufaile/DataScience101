@@ -6,18 +6,19 @@ Welcome to the Miscellaneous Data Science Notebooks repository! This repository 
 
 ## Table of Contents
 
-1. Introduction to Machine Learning
-2. Exploratory Data Analysis
-3. Feature Engineering Techniques
-4. Time Series Analysis
-5. Natural Language Processing
-6. Image Processing and Computer Vision
-7. Recommender Systems
-8. Deep Learning Concepts
-9. Model Evaluation and Validation
-10. Data Visualization Techniques
-11. Statistical Analysis
-12. Hypothesis Testing
+Available:
+1. Operations Research
+
+Future Work:
+Exploratory Data Analysis
+Feature Engineering Techniques
+Time Series Analysis
+Natural Language Processing
+Image Processing and Computer Vision
+Recommender Systems
+Model Evaluation and Validation
+Hypothesis Testing
+Feature Selection
 
 Feel free to explore the notebooks and delve into the world of data science. Each notebook is self-contained, providing explanations, code examples, and interactive visualizations where applicable.
 
