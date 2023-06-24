@@ -34,7 +34,7 @@ To run the notebooks locally, follow these steps:
 
 ## Contribution Guidelines
 
-If you have any ideas, suggestions, or improvements, feel free to contribute!
+If you have any ideas, suggestions for topics, or improvements, feel free to contribute!
 
 ## License
 
