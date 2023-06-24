@@ -7,7 +7,8 @@ Welcome to the Miscellaneous Data Science Notebooks repository! This repository 
 ## Table of Contents
 
 Available:
-1. Operations Research: Optmization to solve business problems
+1. Operations Research: Optmization to solve business problems:
+   * Operations Research using Pyomo - v00.ipynb
 
 Future Work:
 * Exploratory Data Analysis
