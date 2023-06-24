@@ -27,7 +27,7 @@ Feel free to explore the notebooks and delve into the world of data science. Eac
 
 To run the notebooks locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/misc-data-science-notebooks.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/FelipeTufaile/Misc_DS_Notebooks.git`.
 2. Ensure you have Jupyter Notebook (or similar) installed.
 3. Navigate to the cloned repository on your local machine.
 4. Open the desired notebook and enjoy exploring the data science topics.
