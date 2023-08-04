@@ -1,8 +1,8 @@
-# Miscellaneous Data Science Notebooks
+# Data Science 101
 
 ![Data Science](https://img.shields.io/badge/Data-Science-blue?logo=python)
 
-Welcome to the Miscellaneous Data Science Notebooks repository! This repository contains a collection of Jupyter notebooks covering various topics in the field of data science.
+Welcome to the Data Science 101 repository! This repository contains a collection of Jupyter notebooks covering various topics in the field of data science.
 
 ## Table of Contents
 
