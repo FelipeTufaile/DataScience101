@@ -41,6 +41,9 @@ The following structure is a suggestion on how to study data science and machine
 
 ## Reinforcement Learning
 
+## Self-Supervised Learning
+  - It is both **unsupervised** in the sense that the input data is unlabelled, and **supervised** in the sense that the data itself provides the necessary context which would ordinarily make up the labels. For example: creating word embeddings.
+
 ## Cross-Model Techniques
   - Feature Selection;
   - Model Evaluation and Validation;
