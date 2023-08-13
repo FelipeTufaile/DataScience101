@@ -30,7 +30,7 @@ The following structure is a suggestion on how to study data science and machine
     - Hyndman, R.J., & Athanasopoulos, G., (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [OTexts.com/fpp3](https://otexts.com/fpp3/). Accessed on 2023-08-04.
     - Shumway, R.H., Stoffer, D.S., (2017) Time Series Analysis and Its Applications with R Examples, 4th edition, Springer.
     
-- Neural Neyworks:
+- Neural Networks:
   - Convolutional Neural Networks (CNN);
   - Recurrent Neural Networks (RNN);
   - Long Short-Term Memory (LSTM);
@@ -60,7 +60,15 @@ The following structure is a suggestion on how to study data science and machine
 
 ## Business Applications
   - Exploratory Data Analysis
-  - Natural Language Processing
+  - Natural Language Processing:
+    - Auto-Correct Models;
+    - Auto-Complete Models;
+    - Machine Translation;
+    - Information Extraction;
+    - Question Answering;
+    - Semantic Distance / Semantic Analogies;
+    - Sentiment Analysis;
+    - Classification of Customer Feedback;
   - Image Processing and Computer Vision
   - Recommender Systems
   - Factor Analysis;
