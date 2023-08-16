@@ -26,6 +26,8 @@ The following structure is a suggestion on how to study data science and machine
   - Holt Winter;
   - Autoregressive Distributed Lags (ARDL);
   - Exponential Smoothing (ETS);
+  - Augmented Dickey–Fuller (ADF) test;
+  - Co-Integration test;
   - **References**:
     - Hyndman, R.J., & Athanasopoulos, G., (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. [OTexts.com/fpp3](https://otexts.com/fpp3/). Accessed on 2023-08-04.
     - Shumway, R.H., Stoffer, D.S., (2017) Time Series Analysis and Its Applications with R Examples, 4th edition, Springer.
@@ -37,7 +39,9 @@ The following structure is a suggestion on how to study data science and machine
 
 ## Unsupervised Learning
   - K-Nearest Neighbors (KNN);
-  - K-mean;
+  - K-means;
+  - Hierarchical Clustering;
+  - Gaussian Mixture Models (GMM);
 
 ## Reinforcement Learning
 
