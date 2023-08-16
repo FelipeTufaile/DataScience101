@@ -52,6 +52,8 @@ The following structure is a suggestion on how to study data science and machine
   - Feature Selection;
   - Model Evaluation and Validation;
   - Hypothesis Testing;
+    - Chi-square test: check dependece between two categorical variables using contingency tables;
+    - ANOVA;
   - Principal Component Analysis (PCA);
 
 ## Machine Learning Tools
@@ -79,5 +81,7 @@ The following structure is a suggestion on how to study data science and machine
   - Image Processing and Computer Vision
   - Recommender Systems
   - Factor Analysis;
+    - Principal component analysis (PCA);
+    - Multi-Dimension Scaling;
   - **References**:
     - Békés G., Kézdi, G., (2021) Data Analysis for Business, Economics, and Policy, Cambridge University Press, United Kingdom.
